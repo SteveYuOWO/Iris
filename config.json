@@ -1,0 +1,18 @@
+{
+  "name": "Steve and Qinianyue's Moment",
+  "title": "Steve and Qinianyue's Moment",
+  "description": "Capturing beautiful moments in life, documenting daily warmth and emotions through my lens.",
+  "url": "https://steveyu-qinianyue-photo-album.zeabur.app/",
+  "accentColor": "#FCD535",
+  "author": {
+    "name": "Steve Yu",
+    "url": "https://steveyu-qinianyue-photo-album.zeabur.app/",
+    "avatar": "https://avatars.githubusercontent.com/u/41619339?v=4"
+  },
+  "social": {
+    "twitter": "@OwOSteveYu"
+  },
+  "extra": {
+    "accessRepo": true
+  }
+}
